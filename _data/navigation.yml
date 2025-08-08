@@ -21,7 +21,7 @@ main:
     url: /sci-comm/
     
   - title: "CV"
-    url: <a href="/files/cv.pdf" target="_blank">CV</a>
+    url: <a href="/files/cv.pdf" target="_blank"></a>
     
   # - title: "Guide"
   #   url: /markdown/
