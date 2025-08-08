@@ -35,5 +35,5 @@ Come back to this page for links and/or opportunities related to CSDComm (aka Sc
 
 <br>
 
-I plan to create a spreadsheet with links, flyers, and more separated by the type of language science/CSD research they involve in the near future. Stay tuned! :)
+In the near future, I plan to create a spreadsheet with links, flyers, and more separated by the type of language science/CSD research they involve. Stay tuned! :)
 
