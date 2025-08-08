@@ -29,8 +29,8 @@ Conferences
 HSP 2025 @ UMD
 ![HSP 2025](/images/ProsMem_HSP.jpg "Presenting ProsMem1 at HSP 38 (@ University of Maryland)")
 
-SCULC 2024 @ UCLA
-![SCULC 2024](/images/ProsMem_SCULC.jpg "Presenting ProsMem1 at SCULC 2024 (@ UCLA)")
+<!--- SCULC 2024 @ UCLA
+![SCULC 2024](/images/ProsMem_SCULC.jpg "Presenting ProsMem1 at SCULC 2024 (@ UCLA)") -->
 
 <br> 
 
