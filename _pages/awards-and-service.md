@@ -37,24 +37,18 @@ My 🌻 Fam Line 2023
 
 
 **General Member**
-* Raised upwards of $1000 in fundraisers for various charitable organizations<br>
-* Regularly volunteered to set up academic enrichment panels and public research presentations (60h+)
+* As a general member of ASK, I volunteered for various charitable organizations, set up academic enrichment panels, and presented at our open-access research colloquiums
 
 **Vice President of Operations** - 05.2023-05.2024
-* Managed Big-Little mentorship program for women and nonbinary students in STEM
-* Coordinated events for a large (50+)-student organization
-* Communicated with executive, chapter, and national boards to refine and revise organization bylaws
+* As ASK's VP Ops, I had the opportunity to manage a Big-Little program for women and nonbinary students in STEM. It was a challenge to pair up students with common interests and mentorship aims within such a large student organization, but the process ultimately enriched our bonds and community 
 
 **Professional Fraternity Council Representative** - 05.2023-05.2024
-* Collaborated with other PFC representatives to host networking events for PFC organization members (50h+)
+* As ASK's PFC Rep, I collaborated with other PFC representatives to host networking events and even a professional-clothing drive! 
 
 
-## Global English Camp: Come on Out Japan (07.2022-08.2022)
-* 40h+ of ESL instruction experience (6-7 students per group, solo and paired instruction) 
-* Cooperated with undergraduate and graduate mentors from across the world to instruct Japanese high-school students in developing a life mission presentation
-* Facilitated meaningful group discussions and speech exercises between coaches and ESL students
+## Toshin Global English Camp: Come on Out Japan (07.2022-08.2022)
+* Serving as a coach in Come On Out Japan's 2022 English Camp allowed me to meet and cooperate with mentors from around the world as we instructed our teams (6-7 Japanese high-schoolers, solo and paired instruction) in developing a life mission presentation. We facilitated speech exercises and meaningful group discussions between coaches and ESL students
 
 
 ## UCSB Community Affairs Board (09.2020-06.2021)
-* Worked as a virtual tutor 1-2x/week for underprivileged families through CAB's “Family Literacy Program”
-* Focused on reading and written/spoken language instruction for both students and parents
+* During my first year at UCSB, I worked with UCSB CAB's Family Literacy Program as a virtual tutor. I provided written/spoken English language instruction and reading practice for underprivileged students (and their parents), as well as homework help for the students
