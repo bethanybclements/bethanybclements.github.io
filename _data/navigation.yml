@@ -21,7 +21,7 @@ main:
     url: /sci-comm/
     
   - title: "CV"
-    url: https://bethanybclements.github.io/files/cv.pdf
+    url: /files/cv.pdf/
     
   # - title: "Guide"
   #   url: /markdown/
