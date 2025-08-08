@@ -33,5 +33,7 @@ Come back to this page for links and/or opportunities related to CSDComm (aka Sc
 * Providing opportunities, support, and community for clinical research participants and their loved ones
 * Expanding CSD research to address underserved communities
 
+<br>
+
 I plan to create a spreadsheet with links, flyers, and more separated by the type of language science/CSD research they involve in the near future. Stay tuned! :)
 
