@@ -15,9 +15,8 @@ author_profile: true
 **Miscellaneous**<br>
 06.2024 - Outstanding Senior Award (Linguistics Dept., UCSB)<br>
 06.2024 - 2024 형일파이 Award for Korean Language (East Asian Language and Cultural Studies Dept., UCSB)<br>
-09.2020-06.2024 - Dean’s Honors List (UCSB CLS)<br>
-09.2022-06.2024 - Letters and Science Honors Program (UCSB CLS)
-
+09.2022-06.2024 - Letters and Science Honors Program (UCSB CLS)<br>
+09.2020-06.2024 - Dean’s Honors List (UCSB CLS)
 
 2022부터 2024까지~ 한국어 수업 
 ![2022부터 2024까지~ 한국어 수업](/images/KOR_award.jpg "EALCS Awards Ceremony 06.2024")
