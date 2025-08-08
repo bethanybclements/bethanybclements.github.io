@@ -36,4 +36,4 @@ When I'm not in the lab...
 * 🪴 Caring for my plant babies
 * 🐶 Missing my dog, Tauriel (see below!)
 
-![](/images/Tauriel.jpg){:width="300"}
+![](/images/Tauriel.jpg)
