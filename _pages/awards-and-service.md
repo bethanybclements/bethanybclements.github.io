@@ -27,11 +27,11 @@ author_profile: true
 ======
 ## Alpha Sigma Kappa: Women in Technical Studies (09.2022-06.2024)
 
-ASK 2024
+ASK in 2024
 ![ASK in 2024](/images/ASK_1.jpg "General members 06.2024")
 
 
-My 🌻 Fam Line 2023
+My 🌻 Fam Line in 2023
 ![My 🌻 Fam Line in 2023](/images/ASK_2.jpg "Sunflower fam 06.2023")
 
 
