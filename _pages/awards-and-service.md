@@ -19,8 +19,8 @@ author_profile: true
 09.2022-06.2024 - Letters and Science Honors Program (UCSB CLS)
 
 
-한국어 수업 2022부터 2024까지~
-![한국어 수업 2022부터 2024까지~](/images/KOR_award.jpg "EALCS Awards Ceremony 06.2024")
+2022부터 2024까지~ 한국어 수업 
+![2022부터 2024까지~ 한국어 수업](/images/KOR_award.jpg "EALCS Awards Ceremony 06.2024")
 
 <br>
 
