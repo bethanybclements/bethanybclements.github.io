@@ -1,4 +1,4 @@
-y# The following is the order of the links in the header of the website.
+# The following is the order of the links in the header of the website.
 #
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
@@ -21,7 +21,7 @@ main:
     url: /sci-comm/
     
   - title: "CV"
-    url: /files/cv.pdf/
+    url: /bethanybclements.github.io/files/cv.pdf/
     
   # - title: "Guide"
   #   url: /markdown/
