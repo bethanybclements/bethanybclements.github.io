@@ -9,8 +9,8 @@ author_profile: true
 Publications
 ======
 <br>
-**Recognition Memory as a Function of Word Slot and Contrastive Accenting in the Visual World Paradigm** [in review]
-* Examines the effects of prosodic prominence (via contrastive-pitch accenting) on language processing and memory (pitch accent-memory link established through eye-tracking in the VWP)
+**Recognition Memory as a Function of Word Slot and Contrastive Accenting in the Visual World Paradigm** [in review; citation to come]
+* This paper (a replication-extension of Fraundorf et al. 2010) establishes a link between pitch accenting, visual attention, and recognition memory in the VWP. We draw from previous theories regarding the processing of prosodic prominence and audiovisual stimuli to support a contrast-representation account of pitch accenting: contrastive-pitch accents divert limited working memory resources AWAY from non-accented contrastive alternatives, improving recognition memory for accented items. 
 
 <br> 
 
@@ -29,24 +29,21 @@ Conferences
 HSP 2025 @ UMD
 ![HSP 2025](/images/ProsMem_HSP.jpg "Presenting ProsMem1 at HSP 38 (@ University of Maryland)")
 
-SCULC 2024 @ UCLA
-![SCULC 2024](/images/ProsMem_SCULC.jpg "Presenting ProsMem1 at SCULC 2024 (@ UCLA)")
-
 <br> 
 
 Ongoing Projects 
 ====
 ## Pitch Accenting, Bilingualism, and Recognition Memory
 **UCSB Linguistics Dept.** - 10.2024-Present
-* Expanded on literature regarding memory for contrastive-pitch accents through an eye-tracking study in  Cantonese-English bilinguals 
-* Compiled a literature review on contrastive prosody acquisition and L1 transfer in L2 English-learners
-* Will pinpoint the acoustic qualities used to learn English in L1 tonal language speakers via a model-fitting approach
+* Replication-extension of my undergraduate honors thesis in Cantonese-English bilinguals, in collaboration with Lu Liu.
+* Method - Praat for acoustics, EyeLink Duo in a VWP
+* This project will use a model-fitting approach to pinpoint the acoustic qualities used when learning English prosody and remembering contrastively-accented items for L1 speakers of tonal languages. In particular, we are interested in whether an L1 transfer effect (if any are present) might impact visual attention to and memory for accented items.
 
 ## Pitch Accenting and Recognition Memory
-**UCSB Linguistics Dept.** - 08.2023-Present
-* Collaborated with professionals (Dr. Laurel Brehm; Dr. Scott Fraundorf) to expand foundational pitch accenting literature
-* Collected, cleaned, and analyzed eye-tracking data to establish causal links between contrastive prosody, fixation-mediated attention, and recognition memory
-* Developed a set of 240 stimuli to be used within the visual world paradigm
+**UCSB Linguistics Dept. - Undergraduate Honors Thesis** - 08.2023-Present
+* Replication-extension of Fraundorf et al. (2010) in a visual world paradigm
+* Method - EyeLink Duo in a VWP
+* In collaboration with Laurel Brehm (UCSB Linguistics) and Scott Fraundorf (Pitt Psychology), this project expands foundational pitch accenting literature into a visual world paradigm. We developed a set of visual stimuli to be used alongside the original audio and tracked participants' eye movements while encoding and recalling contrastively and non-contrastively accented items from narratives. Analysis of this data establishes causal links between prosodic prominence, fixation-mediated attention, and recognition memory. 
 
 <br> 
 
@@ -58,22 +55,15 @@ Lab Experience
 ======
 ## UCSB Linguistics Dept.
 **Production and Perception of Language (PRPL) Lab** - 08.2023-06.2025
-* Coded and analyzed speech errors in sentence-completion output for 100+ participants
-* Recruited and worked with children and adults for three different experiments on the development of emotion words (30h volunteer work)
-* Instructed undergraduate RAs in the use of portable and stationary eye-tracking equipment
-* Participated in a research initiative to utilize LLMs to enhance diversity in language science research
+* I coded and analyzed speech errors in a sentence-completion study, looking at sentence production differences and error types across monolingual and multilingual English speakers of various backgrounds
+* In an effort to increase SciComm (see my SciComm tab for more info!) and real-world observation of language production and processing, I recruited and ran studies with children and adults at a local science museum. Since portable and stationary eye-trackers were used here, I instructed undergraduate RAs on equipment use and calibration. I was an RA for three studies, and topics ranged from development of emotion-specific language across childhood to context-dependent learning of novel words to observation of child engagement with LLMs.
+* Even after graduation, I attended various seminars from University of California researchers (which my P.I. helped organize) as part of a research initiative to enhance diversity in language science research through the use of LLMs
 
 ## UCSB Psychological and Brain Sciences Dept.
 **Mayer Lab** - 04.2023-06.2024
-* Spliced and organized audio files from 60+ participants using Shotcut (30h)
-* Collaborated with native Mandarin speakers and opera singers to establish grading scales for musical pitch productions and second-language Mandarin utterances  
-* Scored second-language Mandarin learners on pitch-accent replication and production of basic Pinyin and pitch contours (40h)
-* Conducted statistical analyses on the correlation between musical pitch ability and success in replicating and producing pitch-contours in Mandarin
-
+* In partnership with native Mandarin speakers and trained opera singers, I served as our resident psycholinguist while our lab created grading scales for musical pitch productions and second-language Mandarin utterances. These scales were used in scoring L2 Mandarin learners on pitch-accent replication and production of basic pitch contours, ultimately looking into the correlation between musical pitch proficiency and accuracy in Mandarin tone replication/production. 
 
 ## UCSB English Dept. (Literature and Mind Program)
 **Trauma-Informed Pedagogy Initiative** - 07.2023-12.2023
-* Assembled a 94-page review summarizing the educational, political, and psychophysiological consequences of trigger warning implementation
-* Prepared and gave a well-attended campus presentation and Q+A session on trigger warnings and trauma
-* Led a discussion panel on the language and rhetoric of trigger warnings in education
-
+* As an RA for the English Department's Lit & Mind program, I assembled a review of previous literature summarizing the existing accounts of educational, political, and psychophysiological consequences of trigger warning implementation. My findings were complex and highly context/audience-dependent, but ultimately pointed AWAY from trigger warnings in the search for adequate means of addressing student trauma.
+* I then proposed alternatives and opened the floor for audience input in a well-attended [campus presentation/discussion panel](https://www.hfa.ucsb.edu/news-entries/2023/11/26/a-trauma-informed-approach-to-teaching) through UCSB TIP (see [slides](https://docs.google.com/presentation/d/1jFerlRvH-KyxfrdqroF0JJvOEELWA6AjGu22zeXM2R8/edit?usp=sharing) here!). 
