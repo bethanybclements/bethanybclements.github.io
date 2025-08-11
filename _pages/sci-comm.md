@@ -28,7 +28,7 @@ How to get involved?
 See below for links and/or opportunities related to CSDComm (aka SciComm for Communication Sciences and Disorders research 💬), i.e.:
 
 * Increasing awareness about the applications/importance of language science/CSD research
-* Clearly informing participants about our research processes and goals... let's make "scientific jargon" and complicated stats easy to understand for people of all ages, backgrounds, and walks of life
+* Clearly informing participants about our research processes and goals... let's make "scientific jargon" and complicated stats easy to understand for people of all ages, backgrounds, and walks of life!
 * Actively connecting with communities we work with, whether that be through accessible seminars, Q+As, public feedback sessions, or simply dedicated debriefing periods in our studies
 * Providing opportunities, support, and community for clinical research participants and their loved ones
 * Expanding CSD research to address underserved communities
