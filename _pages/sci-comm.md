@@ -41,5 +41,5 @@ In the near future, I plan to create a public spreadsheet where people can post 
 
 SciComm Links and Opportunities
 ======
-* [Planet Word's Language Science Station](https://sites.google.com/umd.edu/planetwordresearch) is at the forefront of modern LingComm efforts-- I had the chance to visit when I was in D.C., and I highly recommend stopping by if you have the chance. See [this article](https://www.degruyterbrill.com/document/doi/10.1515/lingvan-2024-0077/html) by Vaughn et al. (2024) for more info!
+* [Planet Word's Language Science Station](https://sites.google.com/umd.edu/planetwordresearch) is at the forefront of modern LingComm efforts-- I had the chance to visit when I was in D.C., and I highly recommend stopping by if you're in the area. See [this article](https://www.degruyterbrill.com/document/doi/10.1515/lingvan-2024-0077/html) by Vaughn et al. (2024) for more info!
 
