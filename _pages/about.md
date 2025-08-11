@@ -33,5 +33,5 @@ When I'm not in the lab...
 * 🎵 Listening to and/or playing music (preferred genres - rock, alt, indie, punk, or some combination of the four)
 * 🧑‍🍳 Experimenting in the kitchen
 * 👾 Video-or-RPG-gaming
-* 🪴 Caring for my plant babies
+* 🪴 Caring for my plant children 
 * 🐶 Missing my dog, Tauriel
