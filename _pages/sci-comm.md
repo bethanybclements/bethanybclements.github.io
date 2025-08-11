@@ -25,7 +25,7 @@ Since language and communication are universal, EVERYONE deserves a chance to ge
 
 How to get involved?
 ======
-Come back to this page for links and/or opportunities related to CSDComm (aka SciComm for Communication Sciences and Disorders research 💬), i.e.:
+See below for links and/or opportunities related to CSDComm (aka SciComm for Communication Sciences and Disorders research 💬), i.e.:
 
 * Increasing awareness about the applications/importance of language science/CSD research
 * Clearly informing participants about our research processes and goals... let's make "scientific jargon" and complicated stats easy to understand for people of all ages, backgrounds, and walks of life
@@ -35,5 +35,11 @@ Come back to this page for links and/or opportunities related to CSDComm (aka Sc
 
 <br>
 
-In the near future, I plan to create a spreadsheet with links, flyers, and more separated by the type of language science/CSD research they involve. Stay tuned! :)
+In the near future, I plan to create a public spreadsheet where people can post links, flyers, and more according to the type of language science/CSD research they involve. Stay tuned! :)
+
+<br>
+
+SciComm Links and Opportunities
+======
+* [Planet Word's Language Science Station](https://sites.google.com/umd.edu/planetwordresearch) is at the forefront of modern LingComm efforts-- highly recommend downloading [this article](https://www.degruyterbrill.com/document/doi/10.1515/lingvan-2024-0077/html) by Vaughn et al. (2024) for more info!
 
