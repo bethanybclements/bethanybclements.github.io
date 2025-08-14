@@ -35,7 +35,7 @@ Ongoing Projects
 ====
 ## Pitch Accenting, Bilingualism, and Recognition Memory
 **UCSB Linguistics Dept.** - 10.2024-Present
-* Replication-extension of my undergraduate honors thesis in Cantonese-English bilinguals (collaboration with Lu Liu).
+* Replication-extension of my undergraduate honors thesis in Cantonese-English bilinguals (collaboration with Lu Liu)
 * Method - Praat for acoustics, EyeLink Duo in a VWP
 * This project will use a model-fitting approach to pinpoint the acoustic qualities used when learning English prosody and remembering contrastively-accented items for L1 speakers of tonal languages. In particular, we are interested in whether an L1 transfer effect (if any are present) might impact visual attention to and memory for accented items.
 
@@ -55,9 +55,9 @@ Past Lab Experience
 ======
 ## UCSB Linguistics Dept.
 **Production and Perception of Language (PRPL) Lab** - 08.2023-06.2025
-* I coded and analyzed speech errors in a sentence-completion study, looking at sentence production differences and error types across monolingual and multilingual English speakers of various backgrounds
+* I coded and analyzed speech errors in a sentence-completion study, looking at sentence production differences and error types across monolingual and multilingual English speakers of various backgrounds.
 * To increase SciComm (see my SciComm tab for more info!) and real-world observation of language production and processing, I recruited and ran studies with children and adults at a local science museum. Since portable and stationary eye-trackers were used here, I instructed undergraduate RAs on equipment use and calibration. I was an RA for three studies, and topics ranged from development of emotion-specific language across childhood to context-dependent learning of novel words to observation of child engagement with LLMs.
-* Even after graduation, I attended various seminars from University of California researchers (which my P.I. helped organize) as part of a research initiative to enhance diversity in language science research through the use of LLMs
+* Even after graduation, I attended various seminars from University of California researchers (which my P.I. helped organize) as part of a research initiative to enhance diversity in language science research through the use of LLMs.
 
 ## UCSB Psychological and Brain Sciences Dept.
 **Mayer Lab** - 04.2023-06.2024
