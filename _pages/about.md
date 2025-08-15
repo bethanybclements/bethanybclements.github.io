@@ -34,6 +34,6 @@ When I'm not in the lab...
 * 🧑‍🍳 Experimenting in the kitchen
 * 👾 Video-or-RPG-gaming
 * 🪴 Caring for my plant children 
-* 🐶 Missing my dog, Tauriel<br>
+* 🐶 Missing my dog, Tauriel (see below!) <br>
 
 ![Tauri cameo](/images/Tauriel.jpg){:width="300px" height="200px"}
