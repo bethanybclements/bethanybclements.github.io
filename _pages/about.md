@@ -30,7 +30,7 @@ When I'm not in the lab...
 * 🎨 Doodling
 * 🧗‍♀️ Running or lost on a hiking trail
 * 📖 Reading classic sci-fi, fantasy, or comics 
-* 🎵 Listening to and/or playing music (preferred genres - rock, alt, indie, punk, or some combination of the four)
+* 🎵 Listening to and/or playing music (preferred genres - metal, rock, grunge, punk, alt, indie, or some other variety of those!)
 * 🧑‍🍳 Experimenting in the kitchen
 * 👾 Video-or-RPG-gaming
 * 🪴 Caring for my plant children 
