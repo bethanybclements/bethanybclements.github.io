@@ -13,11 +13,9 @@ Hi, I'm Bethany (she/her)! I am a first-year doctoral student at NYU Steinhardt 
 
 Research Interests
 ======
-My current research interests include language neuroscience, psycholinguistics, computational linguistics, and cognitive science. I aim to explore the neural basis of language and memory in conversation, specifically in older multilinguals and/or those with neurodegenerative diseases. 
+My current research interests include language neuroscience, psycholinguistics, computational linguistics, and cognitive science. I aim to contribute to models of cognition, language, and memory in healthy older adults and specifically older adults with neurodegenerative diseases. My doctoral research will highlight memory for naturalistic interactions and will utilize a variety of methods, from behavioral/eye-tracking paradigms to EEG/ERP to computational methods.
 
-(This section will be updated once I have begun my PhD research :) )
-
-
+This section will be updated once I begin my PhD research :)
 
 Background
 ======
