@@ -66,4 +66,4 @@ Past Lab Experience
 ## UCSB English Dept. (Literature and Mind Program)
 **Trauma-Informed Pedagogy Initiative** - 07.2023-12.2023
 * As an RA for the English Department's Lit & Mind program, I assembled a review of previous literature summarizing the existing accounts of educational, political, and psychophysiological consequences of trigger warning implementation. My findings were complex and highly context/audience-dependent, but ultimately pointed AWAY from trigger warnings in the search for adequate means of addressing student trauma.
-* I then proposed alternatives and opened the floor for audience input in a well-attended [campus presentation/discussion panel](https://www.hfa.ucsb.edu/news-entries/2023/11/26/a-trauma-informed-approach-to-teaching) through UCSB TIP (see [slides](https://docs.google.com/presentation/d/1jFerlRvH-KyxfrdqroF0JJvOEELWA6AjGu22zeXM2R8/edit?usp=sharing) here!). 
+* I then proposed alternatives and opened the floor for audience input in a well-attended campus presentation/discussion panel through UCSB TIP (see [slides](https://docs.google.com/presentation/d/1jFerlRvH-KyxfrdqroF0JJvOEELWA6AjGu22zeXM2R8/edit?usp=sharing) here!). 
