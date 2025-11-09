@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Bethany (she/her)! I am a first-year doctoral student at NYU Steinhardt in the [Communication Sciences and Disorders](https://steinhardt.nyu.edu/departments/communicative-sciences-and-disorders) program. I work with [Si On Yoon](https://steinhardt.nyu.edu/people/si-yoon) in the [CoMM Lab](https://wp.nyu.edu/commlab/), studying the intersection between language and memory.
+Hi, I'm Bethany (she/her)! I am a first-year doctoral student at NYU Steinhardt in the [Communicative Sciences and Disorders](https://steinhardt.nyu.edu/departments/communicative-sciences-and-disorders) program. I work with [Si On Yoon](https://steinhardt.nyu.edu/people/si-yoon) in the [CoMM Lab](https://wp.nyu.edu/commlab/), studying the intersection between language and memory.
 
 
 
