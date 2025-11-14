@@ -25,6 +25,9 @@ author_profile: true
 
 **Service**
 ======
+## NYU Aging and Technology Roundtable (11.2025-12.2025)
+* I will work as a volunteer to organize this intimate, interdisciplinary conference connecting researchers focused on aging.
+
 ## Alpha Sigma Kappa: Women in Technical Studies (09.2022-06.2024)
 
 ASK in 2024
