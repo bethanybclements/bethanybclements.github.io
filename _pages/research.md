@@ -31,8 +31,16 @@ HSP 2025 @ UMD
 
 <br> 
 
-Ongoing Projects 
+Ongoing Projects
 ====
+## Predictive Preactivation and Cognitive Aging Across the Lifespan
+**NYU CSD Dept.** - 09.2025-Present
+* So far, I've compiled a literature review which delves into the concepts of cognitive aging, crystallized/fluid intelligence, and the recruitment of alternative neural mechanisms in later-life language processing. I've also developed the framework for an ongoing research program (see the home page!) which will evaluate language preduction in younger and older adults via eye-tracking, EEG/ERP, and computational modeling.
+
+## Bilingualism, Aging, and Lexical Access 
+**CoMM Lab** - 09.2025-Present
+* In this project, I am conducting eye-tracking analyses on VWP data from older and younger Spanish-English bilinguals. Along with my team in the CoMM Lab, we're using cognitive-behavioral measures to observe multimodal lexical access across both languages.
+
 ## Pitch Accenting, Bilingualism, and Recognition Memory
 **UCSB Linguistics Dept.** - 10.2024-Present
 * Replication-extension of my undergraduate honors thesis in Cantonese-English bilinguals (collaboration with Lu Liu)
