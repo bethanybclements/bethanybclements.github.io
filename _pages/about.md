@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Bethany (she/her)! I am a first-year doctoral student at NYU Steinhardt in the [Communicative Sciences and Disorders](https://steinhardt.nyu.edu/departments/communicative-sciences-and-disorders) program. I work with [Si On Yoon](https://steinhardt.nyu.edu/people/si-yoon) in the [CoMM Lab](https://wp.nyu.edu/commlab/), studying the intersection between language and memory.
+Hi, I'm Bethany (she/her)! I am a first-year doctoral student at NYU Steinhardt in the [Communicative Sciences and Disorders](https://steinhardt.nyu.edu/departments/communicative-sciences-and-disorders) program. I work with [Si On Yoon](https://steinhardt.nyu.edu/people/si-yoon) in the [CoMM Lab](https://wp.nyu.edu/commlab/), studying the intersection between language, cognition, and memory.
 
 
 Research Interests
 ======
-My current research interests include language neuroscience, psycholinguistics, computational linguistics, and cognitive science. 
+My primary research interests center around modeling the neurocognitive changes that occur in healthy and impaired aging, as well as addressing cognitive-communicational deficits that occur as a result of these changes.
 
-During the early stages of my PhD, I hope to work with healthy younger and older adults to clarify the neurocognitive mechanisms behind predictive preactivation and language processing. Mixed findings regarding language prediction ability across the lifespan likely stem from the regular use of unnatural stimulus-response lab tasks. To prioritize ecological validity, my work will initially be conducted in an eye-tracking paradigm which simulates everyday conversation. 
+Currently, as an NSF GRFP fellow, I work with healthy younger adults to clarify the neurocognitive mechanisms behind language processing and memory in complex encoding environments. Predictive preactivation ability serves as a temporally-sensitive proxy for quantifying language processing, which I am monitoring in an eye-tracking VWP across various levels of contextual richness (e.g. unimodal v. multimodal). Cognitive aging processes and methodological inconsistencies play a role in mixed findings regarding predictive preactivation efficacy in older adults, so I will replicate my study in healthy older adults after establishing a baseline in a younger population. Furthermore, I plan to extend my research into EEG/ERP for more comprehensive subsequent studies.
 
-In subsequent studies, this paradigm will be extended into EEG/ERP. I also intend to expand this language prediction research into populations with early-stage Alzheimer's disease and/or Mild Cognitive Impairment (MCI) in the future. The ultimate goal of my doctoral research program will be to contribute to ecologically-valid models of cognition and language use across the lifespan (see: cognitive aging). Furthermore, I would like to incorporate neural, cognitive, and behavioral measures into a computational framework to model prediction across the lifespan-- looking into how predictive mechanisms change with age.
+I aim to integrate the research and clinical spheres through basic science research, capturing the dynamic and individual-specific nature of language use across the lifespan in populations with early-stage Alzheimer's disease, dementia, and/or Mild Cognitive Impairment (MCI). Ultimately, my findings will have implications for more thorough diagnosis of neurodegenerative disease and improved patient outcomes (via cognitive-communicational scaffolding techniques to preserve independence and memory post-diagnosis). 
 
 
 Background
