@@ -20,6 +20,7 @@ Conferences
 **The Impact of Modality and Cognitive Aging in Bilingual Lexical Access**
 * 04.2026 - CoHRR Showcase at NYU Steinhardt (Poster)
 * 03.2026 - 38th Annual Conference on Human Sentence Processing (Poster)
+<br>
 **What Catches the Eye: Recognition Memory as a Function of Word Slot and Contrastive Accenting in the Visual World Paradigm** (access slides from 03.2025 [here](https://docs.google.com/presentation/d/1FXbK8q4ZvmbK5ky4ehUpmBZNEmWAWKjLvKgaynZXx1Y/edit?usp=sharing)!)
 * 03.2025 - 38th Annual Conference on Human Sentence Processing (Talk)
 * 11.2024 - 7th Annual California Meeting for Psycholinguistics (Talk) 
