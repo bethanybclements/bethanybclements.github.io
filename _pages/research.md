@@ -87,7 +87,7 @@ in L1 tonal language speakers via a model-fitting approach.
 Past Projects 
 ======
 ## Production and Perception of Language
-**UCSB Linguistics Dept., PrPL Lab** - 08.2023-06.2024
+**UCSB Linguistics Dept., PrPL Lab** - 08.2023-06.2025
 * The MOXI science center in Santa Barbara was kind enough to partner with the PrPL lab, where I was part of our founding team promoting science communication and conducting real-world psycholinguistic research. My projects centered on the acquisition and usage of novel words in children and adults.
 * In lab, I coded and analyzed speech errors in sentence-completion output and instructed undergraduate RAs in the use of portable and stationary eye-tracking equipment.
 * After graduating, I maintained contact with the PrPL Lab and participated in a research initiative to enhance diversity in language science research using LLMs
