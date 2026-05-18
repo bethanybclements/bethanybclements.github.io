@@ -10,7 +10,10 @@ author_profile: true
 **Awards**
 ======
 **Grants**<br>
-2023-2024 - Undergraduate Research and Creative Activities Grant
+2023-2024 - Undergraduate Research and Creative Activities (URCA) Grant
+
+**Scholarships**<br>
+2026-2029 - NSF Graduate Research Fellowship Program (GRFP) Fellow
 
 **Miscellaneous**<br>
 06.2024 - Outstanding Senior Award (Linguistics Dept., UCSB)<br>
@@ -25,8 +28,14 @@ author_profile: true
 
 **Service**
 ======
-## NYU Aging and Technology Roundtable (11.2025-12.2025)
-* I will work as a volunteer to organize this intimate, interdisciplinary conference connecting researchers focused on aging.
+## NYU SHARE-CSD (06.2026-07.2026)
+* This summer, I am excited to be a part of the CoMM Lab's SHARE-CSD Team! I will supervise and mentor undergraduate students who are interested in learning more about Communicative Sciences and Disorders in an intensive six-week research immersion program.
+
+## Center for Health and Rehabilitation Research (CoHRR) (04.2026)
+* As a part of the scientific committee behind the CoHRR 2026 Research Showcase, I coordinated roundtable panels for trainees and faculty members to discuss current issues and questions in the health and rehabilitation research sphere.
+
+## NYU Aging and Technology Roundtable (11.2025-Present)
+* I served on the organizing committee for an interdepartmental conference and two follow-up coffee-hour roundtables, which will culminate in a grant-writing workship for professionals interested in cutting-edge aging research. In this position, I analyzed attendees' survey data and created tailored table groups based on specializations, skills offered, and resources needed.  
 
 ## Alpha Sigma Kappa: Women in Technical Studies (09.2022-06.2024)
 
@@ -46,11 +55,6 @@ My 🌻 Fam Line in 2023
 
 **Professional Fraternity Council Representative** - 05.2023-05.2024
 * As ASK's PFC Rep, I collaborated with other PFC representatives to host networking events and even a professional-clothing drive! 
-
-
-## Toshin Global English Camp: Come on Out Japan (07.2022-08.2022)
-* Serving as a coach in Come On Out Japan's 2022 English Camp allowed me to meet and cooperate with mentors from around the world as we instructed our teams (6-7 Japanese high-schoolers, solo and paired instruction) in developing a life mission presentation. We facilitated speech exercises and meaningful group discussions between coaches and ESL students.
-
 
 ## UCSB Community Affairs Board (09.2020-06.2021)
 * During my first year at UCSB, I worked with UCSB CAB's Family Literacy Program as a virtual tutor. I provided written/spoken English language instruction and reading practice for underprivileged students (and their parents), as well as homework help for the students.
