@@ -18,7 +18,7 @@ Conferences
 ======
 
 **Oral Presentations** <br>
-What Catches the Eye: Recognition Memory as a Function of Word Slot and Contrastive Accenting in the Visual World Paradigm
+What Catches the Eye: Recognition Memory as a Function of Word Slot and Contrastive Accenting in the Visual World Paradigm <br>
 Access slides from HSP 2025 [here](https://docs.google.com/presentation/d/1FXbK8q4ZvmbK5ky4ehUpmBZNEmWAWKjLvKgaynZXx1Y/edit?usp=sharing)!
 * 38th Annual Conference on Human Sentence Processing (UMD, 2025)
 * 7th Annual California Meeting for Psycholinguistics (UCSD, 2024)
