@@ -32,7 +32,7 @@ Access slides from HSP 2025 [here](https://docs.google.com/presentation/d/1FXbK8
 **Poster Presentations** <br>
 The Impact of Modality and Cognitive Aging in Bilingual Lexical Access
 * CoHRR Research Showcase (NYU, 2026)
-* 38th Annual Conference on Human Sentence Processing (MIT, 2026)
+* 39th Annual Conference on Human Sentence Processing (MIT, 2026)
 <br>
 
 What Catches the Eye: Recognition Memory as a Function of Word Slot and Contrastive Accenting in the Visual World Paradigm
