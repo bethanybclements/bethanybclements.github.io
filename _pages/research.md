@@ -16,9 +16,8 @@ Publications
 
 Conferences 
 ======
-<br>
 
-**Oral Presentations**
+**Oral Presentations** <br>
 What Catches the Eye: Recognition Memory as a Function of Word Slot and Contrastive Accenting in the Visual World Paradigm
 Access slides from HSP 2025 [here](https://docs.google.com/presentation/d/1FXbK8q4ZvmbK5ky4ehUpmBZNEmWAWKjLvKgaynZXx1Y/edit?usp=sharing)!
 * 38th Annual Conference on Human Sentence Processing (UMD, 2025)
@@ -29,10 +28,10 @@ Access slides from HSP 2025 [here](https://docs.google.com/presentation/d/1FXbK8
 
 <br>
 
-**Poster Presentations**
+**Poster Presentations** <br>
 The Impact of Modality and Cognitive Aging in Bilingual Lexical Access
 * CoHRR Research Showcase (NYU, 2026)
-* 38th Annual Conference on Human Sentence Processing (MIT, 2026)
+* 38th Annual Conference on Human Sentence Processing (MIT, 2026) <br>
 What Catches the Eye: Recognition Memory as a Function of Word Slot and Contrastive Accenting in the Visual World Paradigm
 * Undergraduate Research Colloquium (UCSB, 2024)
 
