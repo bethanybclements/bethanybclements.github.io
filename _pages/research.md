@@ -51,7 +51,7 @@ HSP 2025 @ UMD
 Ongoing Projects
 ====
 ## Aging, Contrastive Prosody, and Memory
-**NYU Communicative Sciences and Disorders Dept., CoMM Lab** - 03.2025-Present
+**INDEPENDENT RESEARCH w/ NYU Communicative Sciences and Disorders Dept., CoMM Lab** - 03.2025-Present
 * I will serve as supervisor for a CSD MS student (Laisuna Yu) in her research thesis project, where she will extend my previous work on contrastive prosody into a population of older adults. She is interested in whether cognitive-resource allocation and memory will be impacted by cognitive aging!
 
 ## Autism and Lexical Overlap in Parent-Child Dyads
