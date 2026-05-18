@@ -17,16 +17,24 @@ Publications
 Conferences 
 ======
 <br>
-**The Impact of Modality and Cognitive Aging in Bilingual Lexical Access**
-* 04.2026 - CoHRR Showcase at NYU Steinhardt (Poster)
-* 03.2026 - 38th Annual Conference on Human Sentence Processing (Poster)
+
+**Oral Presentations**
+What Catches the Eye: Recognition Memory as a Function of Word Slot and Contrastive Accenting in the Visual World Paradigm
+Access slides from HSP 2025 [here](https://docs.google.com/presentation/d/1FXbK8q4ZvmbK5ky4ehUpmBZNEmWAWKjLvKgaynZXx1Y/edit?usp=sharing)!
+* 38th Annual Conference on Human Sentence Processing (UMD, 2025)
+* 7th Annual California Meeting for Psycholinguistics (UCSD, 2024)
+* Southern California Undergraduate Linguistics Conference (UCLA, 2024)
+* Linguistics Undergraduate Research Showcase (UCSB, 2024)
+* Undergraduate Research Colloquium (UCSB, 2024)
+
 <br>
-**What Catches the Eye: Recognition Memory as a Function of Word Slot and Contrastive Accenting in the Visual World Paradigm** (access slides from 03.2025 [here](https://docs.google.com/presentation/d/1FXbK8q4ZvmbK5ky4ehUpmBZNEmWAWKjLvKgaynZXx1Y/edit?usp=sharing)!)
-* 03.2025 - 38th Annual Conference on Human Sentence Processing (Talk)
-* 11.2024 - 7th Annual California Meeting for Psycholinguistics (Talk) 
-* 06.2024 - Linguistics Undergraduate Research Showcase at UCSB (Talk)
-* 05.2024 - Southern California Undergraduate Linguistics Conference (Talk)
-* 05.2024 - Undergraduate Research Colloquium at UCSB (Talk, poster)
+
+**Poster Presentations**
+The Impact of Modality and Cognitive Aging in Bilingual Lexical Access
+* CoHRR Research Showcase (NYU, 2026)
+* 38th Annual Conference on Human Sentence Processing (MIT, 2026)
+What Catches the Eye: Recognition Memory as a Function of Word Slot and Contrastive Accenting in the Visual World Paradigm
+* Undergraduate Research Colloquium (UCSB, 2024)
 
 <br>
 
