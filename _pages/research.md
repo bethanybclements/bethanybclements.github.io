@@ -17,6 +17,9 @@ Publications
 Conferences 
 ======
 <br>
+**The Impact of Modality and Cognitive Aging in Bilingual Lexical Access**
+* 04.2026 - CoHRR Showcase at NYU Steinhardt (Poster)
+* 03.2026 - 38th Annual Conference on Human Sentence Processing (Poster)
 **What Catches the Eye: Recognition Memory as a Function of Word Slot and Contrastive Accenting in the Visual World Paradigm** (access slides from 03.2025 [here](https://docs.google.com/presentation/d/1FXbK8q4ZvmbK5ky4ehUpmBZNEmWAWKjLvKgaynZXx1Y/edit?usp=sharing)!)
 * 03.2025 - 38th Annual Conference on Human Sentence Processing (Talk)
 * 11.2024 - 7th Annual California Meeting for Psycholinguistics (Talk) 
@@ -25,6 +28,9 @@ Conferences
 * 05.2024 - Undergraduate Research Colloquium at UCSB (Talk, poster)
 
 <br>
+
+HSP 2026 @ MIT
+![HSP 2026](/images/BiLex_HSP.jpg "Presenting BiLex at HSP 39 (@ MIT)")
 
 HSP 2025 @ UMD
 ![HSP 2025](/images/ProsMem_HSP.jpg "Presenting ProsMem1 at HSP 38 (@ University of Maryland)")
