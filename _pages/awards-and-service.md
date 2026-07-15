@@ -31,6 +31,9 @@ author_profile: true
 ## NYU SHARE-CSD (06.2026-07.2026)
 * This summer, I am excited to be a part of the CoMM Lab's SHARE-CSD Team! I will supervise and mentor undergraduate students who are interested in learning more about Communicative Sciences and Disorders in an intensive six-week research immersion program.
 
+SHARE-CSD 2026 Cohort
+![SHARE-CSD 2026 Cohort](/images/SHARE-CSD 2026.jpg)
+
 ## Center for Health and Rehabilitation Research (CoHRR) (04.2026)
 * As a part of the scientific committee behind the CoHRR 2026 Research Showcase, I coordinated roundtable panels for trainees and faculty members to discuss current issues and questions in the health and rehabilitation research sphere.
 
