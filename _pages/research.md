@@ -65,7 +65,8 @@ Ongoing Projects
 ## The Role of Context in Predictive Preactivation Across the Lifespan
 **INDEPENDENT RESEARCH w/ NYU Communicative Sciences and Disorders Dept., CoMM Lab** - 09.2025-Present
 * For my PhD research program, I am currently developing a series of studies which look at the role of conversational and contextual cues in language processing and memory for younger and older adults. These studies will be carried out via eye-tracking and EEG/ERP, and will ultimately be integrated into larger-scale cognitive-computational models of language use across the lifespan.
-* I want to acknowledge that this project will be carried out in support from the National Science Foundation, as a GRFP fellow!
+* Thus far, as part of the [SHARE-CSD program](https://docs.google.com/presentation/d/1KulghQ3VkhQT3p6RNIBLwG6y7kH8ob4n/edit?usp=sharing&ouid=112071626413775390851&rtpof=true&sd=true) (2026 cohort), we have examined the influence of context on predictive processing and downstream memory for spoken predictions vs. violations as well as unspoken predictions vs. violations. This project was carried out online via the Gorilla platform, utilizing WebGazer eye-tracking software.
+* I want to acknowledge that this project will be carried out with support from the National Science Foundation, as a GRFP fellow!
 
 ## Bilingualism, Aging, and Lexical Access
 **NYU Communicative Sciences and Disorders Dept., CoMM Lab** - 09.2025-Present
